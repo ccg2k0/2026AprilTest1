@@ -1,0 +1,8 @@
+# CODEOWNERS - Automatically assigns reviewers on pull requests
+#
+# For personal repos, use individual GitHub usernames.
+# Example for org/team (only works if repo is under the org):
+# * @ccg2k-org1/org1-team1
+
+# All files — assign owner
+* @ccg2k0
